@@ -86,7 +86,10 @@
     font-weight: 300;
     padding: 10px 25px;
   }
-
+  #center{  
+    margin-left:auto;
+    margin-right:auto;
+  }
   #action .col-sm-5{
     position: absolute;
 
