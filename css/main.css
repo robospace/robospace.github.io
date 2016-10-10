@@ -86,6 +86,10 @@
     font-weight: 300;
     padding: 10px 25px;
   }
+
+  .wrap_center {
+    text-align:center;
+  }
   #center{  
     text-align:center;
   }
